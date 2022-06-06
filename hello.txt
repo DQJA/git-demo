@@ -1,1 +1,5 @@
 hello git
+<<<<<<< HEAD
+=======
+hello git hot-fix
+>>>>>>> hot-fix
