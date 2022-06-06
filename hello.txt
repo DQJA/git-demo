@@ -1,5 +1,3 @@
 hello git
-<<<<<<< HEAD
-=======
 hello git hot-fix
->>>>>>> hot-fix
+hello git merge test
